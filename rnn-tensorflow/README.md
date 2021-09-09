@@ -22,7 +22,7 @@ La evaluación de los subtítulos resultantes se evalúan con el notebook [viewe
 
 |     Métricas   del modelo recurrente    |     Bleu_1    |     Bleu_2    |     Bleu_3    |     Bleu_4    |     METEOR    |     ROUGE_L    |     CIDEr    |     SPICE    |
 |:---------------------------------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:--------------:|:------------:|:------------:|
-|      Implementación con      CNN-RNN    |      0,469    |      0,282    |      0,165    |      0,096    |      0,161    |      0,353     |     0,336    |     0,105    |
+|      Implementación con      CNN-RNN    |      0,477    |      0,288    |      0,168    |      0,098    |      0,163    |      0,356     |     0,348    |     0,106    |
 
 
 
