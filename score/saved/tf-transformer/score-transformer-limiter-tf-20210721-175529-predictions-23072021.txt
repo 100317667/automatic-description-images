@@ -1,0 +1,9 @@
+File: transformer-limiter-tf-20210721-175529-predictions-CUT.json
+- Bleu_1: 0.640
+- Bleu_2: 0.446
+- Bleu_3: 0.303
+- Bleu_4: 0.208
+- METEOR: 0.198
+- ROUGE_L: 0.462
+- CIDEr: 0.637
+- SPICE: 0.117

@@ -1,0 +1,9 @@
+File: transformer-tf-20210721-053756-predictions.json
+- Bleu_1: 0.684
+- Bleu_2: 0.506
+- Bleu_3: 0.362
+- Bleu_4: 0.261
+- METEOR: 0.217
+- ROUGE_L: 0.497
+- CIDEr: 0.796
+- SPICE: 0.130

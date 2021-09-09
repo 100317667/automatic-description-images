@@ -1,0 +1,9 @@
+File: rnn-tf-20210720-005320-predictions-CUT.json
+- Bleu_1: 0.477
+- Bleu_2: 0.288
+- Bleu_3: 0.168
+- Bleu_4: 0.098
+- METEOR: 0.163
+- ROUGE_L: 0.356
+- CIDEr: 0.348
+- SPICE: 0.106

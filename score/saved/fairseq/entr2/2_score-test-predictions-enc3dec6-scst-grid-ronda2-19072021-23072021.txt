@@ -1,0 +1,9 @@
+File: test-predictions-enc3dec6-scst-grid-ronda2-19072021.json
+- Bleu_1: 0.734
+- Bleu_2: 0.571
+- Bleu_3: 0.431
+- Bleu_4: 0.320
+- METEOR: 0.248
+- ROUGE_L: 0.530
+- CIDEr: 1.015
+- SPICE: 0.186

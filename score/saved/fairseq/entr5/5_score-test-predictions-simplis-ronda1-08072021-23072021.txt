@@ -1,0 +1,9 @@
+File: test-predictions-simplis-ronda1-08072021.json
+- Bleu_1: 0.731
+- Bleu_2: 0.567
+- Bleu_3: 0.434
+- Bleu_4: 0.332
+- METEOR: 0.277
+- ROUGE_L: 0.554
+- CIDEr: 1.093
+- SPICE: 0.206

@@ -1,0 +1,9 @@
+File: test-predictions-enc3dec6-grid-ronda1-19072021.json
+- Bleu_1: 0.673
+- Bleu_2: 0.499
+- Bleu_3: 0.371
+- Bleu_4: 0.280
+- METEOR: 0.251
+- ROUGE_L: 0.516
+- CIDEr: 0.913
+- SPICE: 0.181

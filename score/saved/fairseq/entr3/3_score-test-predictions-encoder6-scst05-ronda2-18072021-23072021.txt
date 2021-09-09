@@ -1,0 +1,9 @@
+File: test-predictions-encoder6-scst05-ronda2-18072021.json
+- Bleu_1: 0.766
+- Bleu_2: 0.614
+- Bleu_3: 0.473
+- Bleu_4: 0.357
+- METEOR: 0.265
+- ROUGE_L: 0.564
+- CIDEr: 1.128
+- SPICE: 0.201
