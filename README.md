@@ -63,6 +63,6 @@ La segunda de las implementaciones se apoya en el repositorio [krasserm/fairseq-
 
 ## MODELO CON REDES RECURRENTES
 
-Por último, se desarrolla la implementación de un modelo recurrente, con el objetivo de realizar una comparación de los las implementaciones del modelo _Transformers_ definido, con otros tipos de modelos, como son las redes recurrentes.
+Por último, se desarrolla la implementación de un modelo recurrente, con el objetivo de realizar una comparación de las implementaciones del modelo _Transformers_ definido, con otros tipos de modelos, como son las redes recurrentes.
 
 
